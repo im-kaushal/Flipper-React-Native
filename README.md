@@ -20,12 +20,11 @@ choco install openssl
 ```
 **Restart your system**
 
-**5. Dawnload, Extract & save path in env variable** [Watchman](https://github.com/facebook/watchman/releases/download/v2023.01.23.00/watchman-v2023.01.23.00-windows.zip)
-<br>
+**5. Dawnload, Extract & save path in env variable** 
+[Watchman](https://github.com/facebook/watchman/releases/download/v2023.01.23.00/watchman-v2023.01.23.00-windows.zip)
 ![image](https://user-images.githubusercontent.com/70936174/214493008-39d9c87d-b75d-4d23-ba8a-4bc1aced5be1.png)
-<br>
-I hope you're all set!
-<br>If still facing any chananges in the installation part, do let me know :)
+
+I hope you're all set! If still facing any chananges in the installation part, do let me know :)
 ----
 **HAPPY LEARNING !!!**
 
