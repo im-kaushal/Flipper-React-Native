@@ -6,8 +6,9 @@
 <br>
 **2. Run Power Shall as "Adminstrator"**
 <br>
-![image](https://user-images.githubusercontent.com/70936174/214488951-4e3a6ab9-942f-4760-8e7f-b041ff7400e9.png =250x)
-<br>
+<!-- ![image](https://user-images.githubusercontent.com/70936174/214488951-4e3a6ab9-942f-4760-8e7f-b041ff7400e9.png) -->
+<img src = "https://user-images.githubusercontent.com/70936174/214488951-4e3a6ab9-942f-4760-8e7f-b041ff7400e9.png" width ="300">
+
 **3. Copy & paste the command mentioned below in power shell**
 
 ```
@@ -20,13 +21,14 @@ choco install openssl
 ```
 **Restart your system**
 
-**5. Dawnload, Extract & save path in env variable** 
-[Watchman](https://github.com/facebook/watchman/releases/download/v2023.01.23.00/watchman-v2023.01.23.00-windows.zip)
-![image](https://user-images.githubusercontent.com/70936174/214493008-39d9c87d-b75d-4d23-ba8a-4bc1aced5be1.png =250x)
+**5. Dawnload, Extract & save path in env variable** [Watchman](https://github.com/facebook/watchman/releases/download/v2023.01.23.00/watchman-v2023.01.23.00-windows.zip) 
+<br>
+<img src="https://user-images.githubusercontent.com/70936174/214493008-39d9c87d-b75d-4d23-ba8a-4bc1aced5be1.png" width="300"/>
+<br>
+
+<img src="https://user-images.githubusercontent.com/70936174/214496185-67784efc-bece-436a-bd0f-c7ac77767bbf.png" width="300"/>
 
 I hope you're all set! If still facing any chananges in the installation part, do let me know :)
-![image](https://user-images.githubusercontent.com/70936174/214496185-67784efc-bece-436a-bd0f-c7ac77767bbf.png =250x)
-
 ----
 **HAPPY LEARNING !!!**
 
