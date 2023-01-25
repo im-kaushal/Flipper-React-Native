@@ -18,9 +18,8 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 ```
 choco install openssl 
 ```
-<br>
 **Restart your system**
-<br>
+
 **5. Dawnload, Extract & save path in env variable** [Watchman](https://github.com/facebook/watchman/releases/download/v2023.01.23.00/watchman-v2023.01.23.00-windows.zip)
 <br>
 ![image](https://user-images.githubusercontent.com/70936174/214493008-39d9c87d-b75d-4d23-ba8a-4bc1aced5be1.png)
