@@ -25,6 +25,8 @@ choco install openssl
 ![image](https://user-images.githubusercontent.com/70936174/214493008-39d9c87d-b75d-4d23-ba8a-4bc1aced5be1.png)
 
 I hope you're all set! If still facing any chananges in the installation part, do let me know :)
+![image](https://user-images.githubusercontent.com/70936174/214496185-67784efc-bece-436a-bd0f-c7ac77767bbf.png)
+
 ----
 **HAPPY LEARNING !!!**
 
