@@ -15,11 +15,20 @@
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
 ```
+PS: If chocolate is pre-installed in your device, Kindly delete it from 
+```
+C:\ProgramData\chocolatey
+```
 **4. Run**
 ```
 choco install openssl 
 ```
 **Restart your system**
+<br>
+Open cmd prompt & Check if Open SSL is installed well
+```
+openssl version
+```
 
 **5. Dawnload, Extract & save path in env variable** [Watchman](https://github.com/facebook/watchman/releases/download/v2023.01.23.00/watchman-v2023.01.23.00-windows.zip) 
 <br>
