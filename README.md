@@ -1,6 +1,6 @@
 # Flipper-React-Native
 
-### Kindly follow the below mentiond steps:
+### Kindly follow the below mentioned steps:
 
 **1. Dawnload & Extract** [Flipper](https://objects.githubusercontent.com/github-production-release-asset-2e65be/129283183/489d4a84-ef79-416c-ada9-eba6161d4411?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230124T132319Z&X-Amz-Expires=300&X-Amz-Signature=6fcdafbbb7a020edf7502df542b021210b6047997009b8c2d39184e491cbad76&X-Amz-SignedHeaders=host&actor_id=70936174&key_id=0&repo_id=129283183&response-content-disposition=attachment%3B%20filename%3DFlipper-win.zip&response-content-type=application%2Foctet-stream)
 <br>
